@@ -1,0 +1,19 @@
+.grandpa , .grandpa div {
+    border: 2px solid goldenrod;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+
+.family{
+    display: flex;
+
+}
+
+.familys {
+    display: grid;
+   grid-template-columns: 2fr 1fr 1fr;
+}
+
